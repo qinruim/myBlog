@@ -1,0 +1,13 @@
+build/
+source/_build/
+unGit/
+.vscode/
+.idea/
+
+
+# hugo
+.hugo_build.lock
+public/
+resources/
+themes/
+

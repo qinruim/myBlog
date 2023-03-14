@@ -136,7 +136,7 @@ theme = "DoIt"
 以下是创建第一篇文章的方法:
 
 ```bash
-hugo new posts/first_post.md
+hugo new posts/nginx踩坑小记.md
 ```
 
 通过添加一些示例内容并替换文件开头的标题, 你可以随意编辑文章.
