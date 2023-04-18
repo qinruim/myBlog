@@ -13,4 +13,3 @@ draft: false
 - 欢迎通过 [邮件](mailto:mqinrui@163.com) 或者 [GitHub Issue](https://github.com/qinruim/qinruim.github.io/issues/new) 与我讨论。
 
 
-{{< image src="paqia.jpg" width="70%" caption="可爱帕恰">}}
