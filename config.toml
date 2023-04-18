@@ -127,7 +127,7 @@ theme = "DoIt"
             # 文件路径是相对于 static 或者 assets 目录的
             avatarURL = "/images/paqia.jpg"
             #  主页显示的网站标题 (支持 HTML 格式)
-            title = 'qinruim的后花园'
+            title = 'qinruim的笔记本'
             # 主页显示的网站副标题
             subtitle = "We will..."
             # 是否为副标题显示打字机动画
